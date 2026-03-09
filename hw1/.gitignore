@@ -1,0 +1,24 @@
+# --- 操作系统临时文件 ---
+.DS_Store
+Thumbs.db
+
+# --- 编程语言编译产物 ---
+*.exe
+*.o
+*.out
+*.class
+__pycache__/
+*.pyc
+
+# --- 依赖库 ---
+node_modules/
+bin/
+obj/
+target/
+venv/
+.venv/
+
+# --- IDE/编辑器配置 ---
+.vscode/
+.idea/
+*.swp
